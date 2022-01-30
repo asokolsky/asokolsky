@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-asokolsky-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asokolsky/)
 
 
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asokolsky&theme=dark&background=000000)](https://git.io/streak-stats)
+-->
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asokolsky)](https://github.com/anuraghazra/github-readme-stats)
