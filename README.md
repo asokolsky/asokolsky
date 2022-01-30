@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :zap: In my free time I [play with computers](https://asokolsky.github.io/)
+In my free time I [play with computers](https://asokolsky.github.io/)
 
-- :mailbox:How to reach me:
+How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-asokolsky-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asokolsky/)
 
 
