@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 In my free time I [play with computers](https://asokolsky.github.io/).
 
-How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-asokolsky-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asokolsky/)
 
 
